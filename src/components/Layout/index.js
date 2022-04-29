@@ -1,10 +1,11 @@
 import './index.scss'
+import Sidebar from '../Sidebar'
 
 const index = () => {
   return (
-      <>
-      <div>weweewe</div>
-      </>
+    <>
+      <Sidebar />
+    </>
   )
 }
 
